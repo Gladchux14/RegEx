@@ -1,8 +1,8 @@
 # RegEx
 
-//BRIEF EXPLANATION OF THE PATTTERN I USED:
+### BRIEF EXPLANATION OF THE PATTTERN I USED:
 
-// I worked on validation for a MASTERCARD
+# I worked on validation for a MASTERCARD
 
 - I used the .test method as that is what will be appropriate to validate whether the value contains a match of the pattern ie true or false
  there are different patterns to check for mastercard and i combined the  patterns using the or sign "|" to demarcate them telling the code that if it doesn't match a particular one it could also check the next pattern.
