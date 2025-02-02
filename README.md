@@ -18,3 +18,6 @@
 - After the patterns comes the dollar sign $ which signifies the end of the pattern. 
 
 - because the "or" sign was used signifying different groups , bracket is used to enclose them all to ensure that the caret and dollar sign for strict adherence and and ending of the regex applies to each of the groups in the pattern.
+
+here is a picture of it running in the terminal:
+![RegEx](https://github.com/user-attachments/assets/362e75dd-2706-4ecd-b6e5-81bf7f93e21e)
